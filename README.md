@@ -1,6 +1,6 @@
 # Simple API using Express
 
-I used Express and UUID to create a simple API following the CRUD standard. I didn't use a real database to persist the data, instead the information is stored in an array of JSON that initializes when the server is booted. 
+I used Express and UUID to create a simple API following the CRUD standard. I didn't use a real database to persist the data, instead the information is stored in a JSON that initializes when the server is booted. 
 
 ---
 
